@@ -1,5 +1,3 @@
-# Projektplan
-
 ## Formål
 
 Formålet med projektet er at udvikle en hjemmeside for den fiktive virksomhed Nordic IT Consulting.
