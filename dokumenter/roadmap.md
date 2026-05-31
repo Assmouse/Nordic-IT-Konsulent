@@ -1,5 +1,3 @@
-# Roadmap
-
 ## Fase 1 – Projektopstart
 
 * Oprettelse af GitHub repository
