@@ -1,8 +1,8 @@
-##Formål
+## Formål
 
 Formålet med hjemmesiden er at præsentere virksomheden Nordic IT Consulting og dens ydelser på en enkel og overskuelig måde. Hjemmesiden skal fungere som en informationsplatform, hvor potentielle kunder kan få indsigt i virksomhedens services, tidligere projekter, medarbejdere og kontaktoplysninger.
 
-##Målgruppe
+## Målgruppe
 
 Hjemmesidens primære målgruppe er:
 
@@ -12,7 +12,7 @@ Jobsøgende
 Interessenter, som ønsker information om virksomheden
 Designprincipper
 
-##Der er lagt vægt på følgende designprincipper:
+## Der er lagt vægt på følgende designprincipper:
 
 Simpelt og professionelt udtryk
 Overskuelig navigation
@@ -21,7 +21,7 @@ Let adgang til kontaktinformation
 Responsivt design til forskellige skærmstørrelser
 Navigation
 
-##Hjemmesiden benytter en fælles navigationsmenu på alle sider.
+## Hjemmesiden benytter en fælles navigationsmenu på alle sider.
 
 Menuen består af:
 
@@ -36,7 +36,7 @@ Contact
 
 Dette gør det muligt for brugeren hurtigt at navigere mellem de forskellige sektioner.
 
-##Farvevalg
+## Farvevalg
 
 Der er valgt et enkelt farvetema bestående af:
 
@@ -46,7 +46,7 @@ Lys baggrund på indholdssider
 
 Farverne er valgt for at understøtte et professionelt og troværdigt udtryk.
 
-##Sideopbygning
+## Sideopbygning
 
 Alle sider følger samme grundstruktur:
 
@@ -68,7 +68,7 @@ Tablets
 Mobiltelefoner
 Fremtidige Forbedringer
 
-##I en fremtidig version af systemet kan følgende funktioner implementeres:
+## I en fremtidig version af systemet kan følgende funktioner implementeres:
 
 Backend til kontaktformular
 Database til lagring af henvendelser
