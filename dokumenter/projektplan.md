@@ -14,7 +14,7 @@ Formålet med projektet er at udvikle en hjemmeside for den fiktive virksomhed N
 | Udvikling af CSS-design         | Gennemført   |
 | Test af navigation              | Gennemført   |
 | Udarbejdelse af dokumentation   | Igangværende |
-| Udarbejdelse af UML-diagrammer  | Planlagt     |
+| Udarbejdelse af UML-diagrammer  | Igangværende |
 | Endelig aflevering              | Planlagt     |
 
 ## Udviklingsmetode
